@@ -1,7 +1,7 @@
 const template = document.createElement("template")
 template.innerHTML = `
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css">
-<link rel="stylesheet" href="/components/faq.css">
+<link rel="stylesheet" href="/faq.css">
 <div class="question-answer">
   <div class="question">
     <h3 class="title-question">
